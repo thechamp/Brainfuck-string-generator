@@ -1,7 +1,7 @@
 Brainfuck-string-generator
 ==========================
 
-This is a c program which reads string from input file and generates a BrainFuck program which will print the same string as output. This is not the most efficient program that can do the same thing. To print the string specified below, it generates Brainfuck program which has 3280 characters  
+This is a c program which reads string from input file and generates a [BrainFuck](http://en.wikipedia.org/wiki/Brainfuck) program which will print the same string as output. This is not the most efficient program that can do the same thing. To print the string specified below, it generates Brainfuck program which has 3280 characters  
 
 ```
 abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+[]\{}|;':",./<>?
